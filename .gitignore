@@ -1,0 +1,8 @@
+# DotENV Configuration
+.env*
+!.env-template
+
+# VIM
+.ropeproject
+*.swp
+*.swo
